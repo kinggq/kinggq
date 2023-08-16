@@ -6,7 +6,13 @@
 </a>
 
 ### 👋 Hi there, I'm King.
-
+<p align="left">
+  <samp>
+    <a href="https://king-me.vercel.app">me</a> .
+    <a href="https://king-me.vercel.app/posts">blog</a> .
+    <a href="https://king-me.vercel.app/projects">projects</a>
+  </samp>
+</p>
 <!--
 **kinggq/kinggq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
