@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-### 👋 Hi there, I'm King.
+### 👋 Hi there,
 <p align="left">
   <samp>
     <a href="https://king-me.vercel.app">me</a> .
